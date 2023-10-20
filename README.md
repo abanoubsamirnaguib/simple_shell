@@ -21,7 +21,7 @@
 ## Authors ##
 👤 `abanoub samir naguib`
 
-- GitHub: [Mosuro1911](https://github.com/abanoubsamirnaguib)
+- GitHub: [abanoub](https://github.com/abanoubsamirnaguib)
 
 
 
